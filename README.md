@@ -29,7 +29,10 @@ This repository is a Guide of studies and references about Computer Vision and y
 
 * **YoloV4**: [Tutorial YoloV4](https://github.com/felipeoliverai/computer-vision-guide/blob/master/object-detection/yolo/YoloV4/YOLO_v4_Object_Detection_with_Darknet.ipynb)
 
+<br>
 
+
+* **Histogram images**: https://docs.opencv.org/master/d1/db7/tutorial_py_histogram_begins.html
 
 
 
