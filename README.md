@@ -40,6 +40,8 @@ This repository is a Guide of studies and references about Computer Vision and y
 
 * **Histogram images**: https://docs.opencv.org/master/d1/db7/tutorial_py_histogram_begins.html
 
+* **YoloV4**: https://blog.roboflow.com/yolov4-tactics/
+
 * **YoloV5**: https://blog.roboflow.com/yolov5-improvements-and-evaluation/
 
 <br> 
