@@ -7,10 +7,8 @@ parser = argparse.ArgumentParser(description="Math equation")
 
 
 # add arguments with method add_argument()
-parser.add_argument('-v1', '--value1', type=int,
-                    help="The first value of equation")
-parser.add_argument('-v2', '--value2', type=int,
-                    help="Second value of equation")
+parser.add_argument('-v1', '--value1', type=int, help="The first value of equation")
+parser.add_argument('-v2', '--value2', type=int, help="Second value of equation")
 
 
 # parsing arguments
@@ -24,3 +22,4 @@ def equation(value1, value2):
 
 if __name__ == "__main__":
     print('The result is: {}'.format(equation(args.value1, args.value2)))
+    
