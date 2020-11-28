@@ -7,11 +7,8 @@ parser = argparse.ArgumentParser(description="Math equation")
 
 
 # add arguments with method add_argument()
-parser.add_argument('-v1', '--value1', type=int,
-                    help="The first value of equation")
-parser.add_argument('-v2', '--value2', type=int,
-                    help="Second value of equation")
-
+parser.add_argument('-v1', '--value1', type=int, help="The first value of equation")
+parser.add_argument('-v2', '--value2', type=int, help="Second value of equation")
 parser.add_argument('-w', '--word', type=str, help="Digit a simple word")
 parser.add_argument('-f', '--number', type=float, help="Float number")
 
