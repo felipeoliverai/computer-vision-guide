@@ -47,6 +47,8 @@ This repository is a Guide of studies and references about Computer Vision and y
 
 * **Free Courses**: https://www.murtazahassan.com/courselist/
 
+* **UFSC labs**: http://www.lapix.ufsc.br/ensino/visao/
+
 <br> 
 <br>
 
