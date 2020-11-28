@@ -26,3 +26,5 @@ if __name__ == "__main__":
     print('\n')
     print("The word is: {}".format(args.word))
     print("Float number: {}".format(args.number))
+
+    
