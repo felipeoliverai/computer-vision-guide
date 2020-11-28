@@ -45,6 +45,8 @@ This repository is a Guide of studies and references about Computer Vision and y
 
 * **YoloV5**: https://blog.roboflow.com/yolov5-improvements-and-evaluation/
 
+* **Free Courses**: https://www.murtazahassan.com/courselist/
+
 <br> 
 <br>
 
